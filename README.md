@@ -1,4 +1,4 @@
-# Expense Manager Frontend
+# Expense Manager
 
 Expense Manager é uma aplicação web para gerenciar transações financeiras, permitindo que os usuários adicionem, visualizem e filtrem transações.
 
@@ -29,7 +29,7 @@ Expense Manager é uma aplicação web para gerenciar transações financeiras, 
 1. Clone o repositório:
     ```bash
     git clone https://github.com/seu-usuario/expense-manager.git
-    cd expense-manager-frontend
+    cd expense-manager
     ```
 
 2. Instale as dependências do projeto:
